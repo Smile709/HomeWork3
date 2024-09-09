@@ -1,3 +1,4 @@
+package HomeWork3;
 
 public class User {
     private String lastName;
@@ -36,7 +37,7 @@ public class User {
 
     @Override
     public String toString() {
-        return "User: " +
+        return "HomeWork3.User: " +
                 "Фамилия: " + this.lastName +
                 ", Имя: " + this.firstName +
                 ", Отчество: " + this.secondName;

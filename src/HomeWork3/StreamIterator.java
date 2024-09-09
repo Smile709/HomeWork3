@@ -1,3 +1,6 @@
+package HomeWork3;
+
+import HomeWork3.Stream;
 
 import java.util.Iterator;
 import java.util.List;

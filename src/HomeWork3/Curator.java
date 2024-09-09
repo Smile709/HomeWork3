@@ -1,4 +1,6 @@
-public class Curator extends User{
+package HomeWork3;
+
+public class Curator extends User {
     private int curatorId;
 
     public Curator(String lastName, String firstName, String secondName, int curatorId) {

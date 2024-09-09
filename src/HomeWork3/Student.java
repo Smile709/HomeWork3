@@ -1,3 +1,5 @@
+package HomeWork3;
+
 public class Student extends User {
     private int studentId;
 

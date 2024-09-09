@@ -1,5 +1,8 @@
+package HomeWork3;
+
+import HomeWork3.Curator;
+
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Main {
@@ -63,14 +66,14 @@ public class Main {
         studentGroups.sort(new StreamComparator());
 
 //        System.out.println("Без сортировки:");
-//        for (StudentGroup group : studentGroups) {
+//        for (HomeWork3.StudentGroup group : studentGroups) {
 //            System.out.println("Группа с " + group.getStudentList().size() + " студентами");
 //        }
 //
 //        Collections.sort(studentGroups);
 //
 //        System.out.println("После сортировки:");
-//        for (StudentGroup group : studentGroups) {
+//        for (HomeWork3.StudentGroup group : studentGroups) {
 //            System.out.println("Группа с " + group.getStudentList().size() + " студентами");
 //        }
 
